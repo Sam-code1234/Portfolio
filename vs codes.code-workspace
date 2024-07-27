@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/vs codes"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio-Website-Template-main"
+	}
+}
